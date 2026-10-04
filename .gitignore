@@ -1,0 +1,13 @@
+# Secrets and local environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated triage reports (sample_* reports are committed as documentation)
+triage-report.json
+triage-report.md
